@@ -1,4 +1,4 @@
-String Concatenator
+# String Concatenator
 
 A simple web application built using HTML, CSS, and JavaScript.
 
